@@ -1,18 +1,18 @@
 # GitHub Profile README Overhaul — Design Spec
 
 **Date:** 2026-03-21
-**Author:** Daemon-AT4 (Bruce)
+**Author:** DAEMON-404 (Bruce)
 **Status:** Draft
 
 ---
 
 ## Overview
 
-Full overhaul of the Daemon-AT4 GitHub profile README. Replacing the existing weather/storm-themed profile with a cyberpunk "Terminal HUD" hybrid — combining terminal session aesthetics with rich visual widgets and dynamic stats cards.
+Full overhaul of the DAEMON-404 GitHub profile README. Replacing the existing weather/storm-themed profile with a cyberpunk "Terminal HUD" hybrid — combining terminal session aesthetics with rich visual widgets and dynamic stats cards.
 
 ## User Profile
 
-- **Username:** Daemon-AT4
+- **Username:** DAEMON-404
 - **Name:** Bruce
 - **Role:** 4th year ethical hacking student
 - **Primary focus:** HTB labs/boxes, pentesting, offensive security
@@ -37,7 +37,7 @@ The README reads like a terminal session (`$ whoami`, `$ cat arsenal.txt`) but e
 
 - **Animated typing SVG** (DenverCoder1/readme-typing-svg)
   - Font: Fira Code (available on Google Fonts, which the service uses)
-  - Text cycles: `Daemon-AT4 :: Ethical Hacker` → `Netrunner :: Offensive Security` → `NixOS Enthusiast :: HTB Grinder`
+  - Text cycles: `DAEMON-404 :: Ethical Hacker` → `Netrunner :: Offensive Security` → `NixOS Enthusiast :: HTB Grinder`
   - Color: Matrix green `#00ff41` on transparent
   - Note: Text on transparent background may be hard to read in GitHub light mode. This is acceptable — the profile is designed for dark mode viewers. Light mode will still be functional but not optimized.
 - **Profile view counter** (komarev) — cyberpunk-styled, matrix green. Appears here only (not duplicated in footer).
@@ -47,7 +47,7 @@ The README reads like a terminal session (`$ whoami`, `$ cat arsenal.txt`) but e
 
 - Terminal header: `$ whoami`
 - Brief Python-style class or terminal output showing:
-  - Alias: Daemon-AT4
+  - Alias: DAEMON-404
   - Role: 4th year ethical hacking student
   - Focus: Offensive security, pentesting, NixOS
   - Current status: Active on HTB
@@ -106,8 +106,8 @@ The README reads like a terminal session (`$ whoami`, `$ cat arsenal.txt`) but e
 
 - Terminal header: `$ ls ~/projects/`
 - **Repo cards** (anuraghazra/github-readme-stats pin cards) for:
-  - `Daemon-AT4/IceBreaker`
-  - `Daemon-AT4/HTB-Lab-Writeups`
+  - `DAEMON-404/IceBreaker`
+  - `DAEMON-404/HTB-Lab-Writeups`
 - Cyberpunk theme matching stats cards
 - Note: Both repos must be public for the cards to render. If either is private, the card will show an error. The user has confirmed these repos exist.
 

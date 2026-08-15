@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Daemon-AT4
+          github_user_name: DAEMON-404
           outputs: dist/github-contribution-grid-snake-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

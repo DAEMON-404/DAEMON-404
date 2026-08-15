@@ -19,6 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: Daemon-AT4
+          USERNAME: DAEMON-404
           BRANCH_NAME: profile-summary-card-output
           THEME: github_dark

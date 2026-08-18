@@ -194,7 +194,7 @@ class Daemon404:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAEMON-404&background=1a1620&border=907aa9&stroke=d7827e&ring=ea9d34&fire=ea9d34&currStreakNum=f2e0d8&sideNums=f2e0d8&currStreakLabel=56949f&sideLabels=56949f&dates=8b8497" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=DAEMON-404&background=1a1620&border=907aa9&stroke=d7827e&ring=ea9d34&fire=ea9d34&currStreakNum=f2e0d8&sideNums=f2e0d8&currStreakLabel=56949f&sideLabels=56949f&dates=8b8497" alt="GitHub Streak" width="500"/>
 
 <br/><br/>
 

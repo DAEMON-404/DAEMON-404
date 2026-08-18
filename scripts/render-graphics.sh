@@ -2,14 +2,19 @@
 # Render the static README graphics (section headers, education cards) from the
 # HTML sources in scripts/graphics/ using headless Chrome at 2x device scale.
 #
+# LEGACY (18 Aug 2026): the README now ships the hand-made Rose Pine dossier set
+# in images/ (hero, section-headers/header-*.png, education cards, footer). This
+# script renders the OLD generated style, so its output goes to .legacy-graphics/
+# and is no longer wired into the README. Re-point OUT_* below if you revive it.
+#
 # Usage: scripts/render-graphics.sh            # render everything
 #        CHROME=/path/to/chrome scripts/render-graphics.sh
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SRC="$ROOT/scripts/graphics"
-OUT_HEADERS="$ROOT/images/daemon-404-section-headers"
-OUT_IMAGES="$ROOT/images"
+OUT_HEADERS="$ROOT/.legacy-graphics/section-headers"
+OUT_IMAGES="$ROOT/.legacy-graphics"
 
 # Locate a Chrome/Chromium binary. Playwright's headless shell is preferred when
 # present; otherwise fall back to a desktop Chrome install.

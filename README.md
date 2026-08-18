@@ -2,67 +2,67 @@
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--  D Λ Σ M Ө П   //   D A E M O N - 4 0 4   //   p r o f i l e            -->
-<!--  Rose Pine Dawn accents on a dark plate — netrunner HUD                  -->
-<!--  Animated banner: images/profile-banner.gif (918x324, scripture card)     -->
-<!--  Still frame:      images/profile-banner.png                             -->
-<!--  Section headers + education cards: scripts/render-graphics.sh          -->
+<!--  Rose Pine (main) dossier — dark night plates + Dawn paper sheets      -->
+<!--  Animated banner: images/hero.gif  (918x324, 9s loop)                  -->
+<!--  Still frame:      images/hero.png                                      -->
+<!--  Section headers: images/section-headers/  ·  dividers rotate a-b-c     -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<img src="images/profile-banner.gif" alt="DAEMON-404 // profile banner" width="900"/>
+<a href="https://daemon-sec.xyz"><img src="images/hero.gif" alt="DΛΣMӨП // DAEMON-404 — offensive security field notes — daemon-sec.xyz" width="830"/></a>
 
-<a href="https://github.com/DAEMON-404"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=4200&pause=1100&color=D7827E&center=true&vCenter=true&width=820&lines=%24%3A%20D%CE%9B%CE%A3M%D3%A8%D0%9F%20%2F%2F%20DAEMON-404%20%2F%2F%20BSc%20(Hons)%20Ethical%20Hacking%20graduate%20%E2%80%94%20Abertay%20%C2%B7%202%3A1%3B%22The%20sky%20above%20the%20port%20was%20the%20colour%20of%20television.%22%3B%22Tuned%20to%20a%20dead%20channel.%22%20%E2%80%94%20W.%20Gibson%2C%20Neuromancer%3Bdaemon%40nixos%3A~%24%20jacking%20in...%20HTB%20rank%20MASTER%20%2F%2F%20level%2065%3B%3E%20ALL%20SYSTEMS%20OPERATIONAL." alt="DAEMON-404 / Gibson epigraph typewriter"/></a>
+<a href="https://github.com/DAEMON-404"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=4200&pause=1100&color=EBBCBA&center=true&vCenter=true&width=820&lines=%24%3A%20D%CE%9B%CE%A3M%D3%A8%D0%9F%20%2F%2F%20DAEMON-404%20%2F%2F%20BSc%20(Hons)%20Ethical%20Hacking%20graduate%20%E2%80%94%20Abertay%20%C2%B7%202%3A1%3B%22The%20sky%20above%20the%20port%20was%20the%20colour%20of%20television.%22%3B%22Tuned%20to%20a%20dead%20channel.%22%20%E2%80%94%20W.%20Gibson%2C%20Neuromancer%3Bdaemon%40nixos%3A~%24%20jacking%20in...%20HTB%20rank%20MASTER%20%2F%2F%20level%2065%3B%3E%20ALL%20SYSTEMS%20OPERATIONAL." alt="DAEMON-404 / Gibson epigraph typewriter"/></a>
 
 <br/>
 
 <!--  ░▒▓  DAEMON PALETTE  ▓▒░  rose · gold · foam · iris · love · pine  ░▒▓  -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20-d7827e?style=flat-square" alt="#d7827e rose"/>
-  <img src="https://img.shields.io/badge/%20-ea9d34?style=flat-square" alt="#ea9d34 gold"/>
-  <img src="https://img.shields.io/badge/%20-56949f?style=flat-square" alt="#56949f foam"/>
-  <img src="https://img.shields.io/badge/%20-907aa9?style=flat-square" alt="#907aa9 iris"/>
-  <img src="https://img.shields.io/badge/%20-b4637a?style=flat-square" alt="#b4637a love"/>
-  <img src="https://img.shields.io/badge/%20-5b93a8?style=flat-square" alt="#5b93a8 pine"/>
+  <img src="https://img.shields.io/badge/%20-ebbcba?style=flat-square" alt="#ebbcba rose"/>
+  <img src="https://img.shields.io/badge/%20-f6c177?style=flat-square" alt="#f6c177 gold"/>
+  <img src="https://img.shields.io/badge/%20-9ccfd8?style=flat-square" alt="#9ccfd8 foam"/>
+  <img src="https://img.shields.io/badge/%20-c4a7e7?style=flat-square" alt="#c4a7e7 iris"/>
+  <img src="https://img.shields.io/badge/%20-eb6f92?style=flat-square" alt="#eb6f92 love"/>
+  <img src="https://img.shields.io/badge/%20-31748f?style=flat-square" alt="#31748f pine"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSC_(HONS)-ETHICAL_HACKING-907aa9?style=for-the-badge&labelColor=1a1620" alt="BSc (Hons) Ethical Hacking"/>
-  <img src="https://img.shields.io/badge/ABERTAY-2%3A1_%E2%9C%94-ea9d34?style=for-the-badge&labelColor=1a1620" alt="Abertay University, 2:1"/>
-  <img src="https://img.shields.io/badge/NCSC-CERTIFIED_DEGREE-56949f?style=for-the-badge&labelColor=1a1620" alt="NCSC certified degree"/>
-  <img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-b4637a?style=for-the-badge&labelColor=1a1620" alt="Offensive security"/>
-  <img src="https://img.shields.io/badge/NIXOS-enthusiast-d7827e?style=for-the-badge&logo=nixos&logoColor=d7827e&labelColor=1a1620" alt="NixOS enthusiast"/>
-  <img src="https://img.shields.io/badge/ROSE_PINE-dawn-ea9d34?style=for-the-badge&labelColor=1a1620" alt="Rose Pine"/>
-  <img src="https://img.shields.io/badge/NEUROMANCER-online-56949f?style=for-the-badge&labelColor=1a1620" alt="Neuromancer online"/>
+  <img src="https://img.shields.io/badge/BSC_(HONS)-ETHICAL_HACKING-c4a7e7?style=for-the-badge&labelColor=191724" alt="BSc (Hons) Ethical Hacking"/>
+  <img src="https://img.shields.io/badge/ABERTAY-2%3A1_%E2%9C%94-f6c177?style=for-the-badge&labelColor=191724" alt="Abertay University, 2:1"/>
+  <img src="https://img.shields.io/badge/NCSC-CERTIFIED_DEGREE-9ccfd8?style=for-the-badge&labelColor=191724" alt="NCSC certified degree"/>
+  <img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-eb6f92?style=for-the-badge&labelColor=191724" alt="Offensive security"/>
+  <img src="https://img.shields.io/badge/NIXOS-enthusiast-ebbcba?style=for-the-badge&logo=nixos&logoColor=ebbcba&labelColor=191724" alt="NixOS enthusiast"/>
+  <img src="https://img.shields.io/badge/ROSE_PINE-main-f6c177?style=for-the-badge&labelColor=191724" alt="Rose Pine (main)"/>
+  <img src="https://img.shields.io/badge/NEUROMANCER-online-9ccfd8?style=for-the-badge&labelColor=191724" alt="Neuromancer online"/>
   <br/>
-  <img src="https://img.shields.io/badge/HTB_RANK-MASTER-ea9d34?style=for-the-badge&logo=hackthebox&logoColor=ea9d34&labelColor=1a1620" alt="HTB rank Master"/>
-  <img src="https://img.shields.io/badge/LEVEL-65-56949f?style=for-the-badge&logo=hackthebox&logoColor=56949f&labelColor=1a1620" alt="Level 65"/>
-  <img src="https://img.shields.io/badge/PRO_LAB-DANTE_%E2%9C%94-d7827e?style=for-the-badge&logo=hackthebox&logoColor=d7827e&labelColor=1a1620" alt="Pro Lab Dante"/>
-  <img src="https://img.shields.io/badge/PRO_LAB-ZEPHYR_%E2%9C%94-d7827e?style=for-the-badge&logo=hackthebox&logoColor=d7827e&labelColor=1a1620" alt="Pro Lab Zephyr"/>
+  <img src="https://img.shields.io/badge/HTB_RANK-MASTER-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="HTB rank Master"/>
+  <img src="https://img.shields.io/badge/LEVEL-65-9ccfd8?style=for-the-badge&logo=hackthebox&logoColor=9ccfd8&labelColor=191724" alt="Level 65"/>
+  <img src="https://img.shields.io/badge/PRO_LAB-DANTE_%E2%9C%94-ebbcba?style=for-the-badge&logo=hackthebox&logoColor=ebbcba&labelColor=191724" alt="Pro Lab Dante"/>
+  <img src="https://img.shields.io/badge/PRO_LAB-ZEPHYR_%E2%9C%94-ebbcba?style=for-the-badge&logo=hackthebox&logoColor=ebbcba&labelColor=191724" alt="Pro Lab Zephyr"/>
   <br/>
-  <img src="https://img.shields.io/github/followers/DAEMON-404?style=for-the-badge&label=FOLLOWERS&color=907aa9&labelColor=1a1620&logo=github&logoColor=907aa9" alt="GitHub followers"/>
-  <img src="https://komarev.com/ghpvc/?username=DAEMON-404&style=for-the-badge&color=d7827e&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/LICENCE-Hack_the_Planet-b4637a?style=for-the-badge&labelColor=1a1620" alt="Licence: Hack the Planet"/>
+  <img src="https://img.shields.io/github/followers/DAEMON-404?style=for-the-badge&label=FOLLOWERS&color=c4a7e7&labelColor=191724&logo=github&logoColor=c4a7e7" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=DAEMON-404&style=for-the-badge&color=ebbcba&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/LICENCE-Hack_the_Planet-eb6f92?style=for-the-badge&labelColor=191724" alt="Licence: Hack the Planet"/>
 </p>
 
 <p align="center">
-  <a href="https://daemon-sec.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%90_DAEMON--SEC.XYZ-56949f?style=for-the-badge&labelColor=1a1620" alt="Website"/></a>
-  <a href="https://app.hackthebox.com/users/2188380"><img src="https://img.shields.io/badge/%E2%96%B6_HACKTHEBOX-ea9d34?style=for-the-badge&labelColor=1a1620" alt="HackTheBox"/></a>
-  <a href="https://github.com/DAEMON-404/HTB-Lab-Writeups"><img src="https://img.shields.io/badge/%F0%9F%93%96_WRITEUPS-907aa9?style=for-the-badge&labelColor=1a1620" alt="HTB writeups"/></a>
-  <a href="mailto:iota43_dice@icloud.com"><img src="https://img.shields.io/badge/%E2%9C%89_EMAIL-d7827e?style=for-the-badge&labelColor=1a1620" alt="Email"/></a>
-  <a href="#pgp"><img src="https://img.shields.io/badge/%F0%9F%94%90_PGP-b4637a?style=for-the-badge&labelColor=1a1620" alt="PGP key"/></a>
+  <a href="https://daemon-sec.xyz"><img src="https://img.shields.io/badge/%F0%9F%8C%90_DAEMON--SEC.XYZ-9ccfd8?style=for-the-badge&labelColor=191724" alt="Website"/></a>
+  <a href="https://app.hackthebox.com/users/2188380"><img src="https://img.shields.io/badge/%E2%96%B6_HACKTHEBOX-f6c177?style=for-the-badge&labelColor=191724" alt="HackTheBox"/></a>
+  <a href="https://github.com/DAEMON-404/HTB-Lab-Writeups"><img src="https://img.shields.io/badge/%F0%9F%93%96_WRITEUPS-c4a7e7?style=for-the-badge&labelColor=191724" alt="HTB writeups"/></a>
+  <a href="mailto:iota43_dice@icloud.com"><img src="https://img.shields.io/badge/%E2%9C%89_EMAIL-ebbcba?style=for-the-badge&labelColor=191724" alt="Email"/></a>
+  <a href="#pgp"><img src="https://img.shields.io/badge/%F0%9F%94%90_PGP-eb6f92?style=for-the-badge&labelColor=191724" alt="PGP key"/></a>
 </p>
 
 </div>
 
 <div align="center">
-  <img src="images/daemon-404-dividers/div-c-phosphor.png" width="600"/>
+  <img src="images/daemon-404-dividers/div-a-circuit.png" width="600"/>
 </div>
 
 <a id="whoami"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/01-whoami.png" width="860"/>
+  <img src="images/section-headers/header-whoami.png" width="830"/>
 </div>
 
 ```python
@@ -87,12 +87,12 @@ class Daemon404:
 ```
 
 <div align="center">
-  <img src="images/daemon-404-dividers/div-a-circuit.png" width="600"/>
+  <img src="images/daemon-404-dividers/div-b-rule.png" width="600"/>
 </div>
 
 <a id="htb-profile"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/02-htb-profile.png" width="860"/>
+  <img src="images/section-headers/header-htb-profile.png" width="830"/>
 </div>
 
 <table align="center">
@@ -113,12 +113,12 @@ class Daemon404:
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRO_LAB-DANTE_%E2%9C%94-d7827e?style=for-the-badge&logo=hackthebox&logoColor=d7827e&labelColor=1a1620" alt="Dante"/>
-  <img src="https://img.shields.io/badge/PRO_LAB-ZEPHYR_%E2%9C%94-d7827e?style=for-the-badge&logo=hackthebox&logoColor=d7827e&labelColor=1a1620" alt="Zephyr"/>
+  <img src="https://img.shields.io/badge/PRO_LAB-DANTE_%E2%9C%94-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="Dante"/>
+  <img src="https://img.shields.io/badge/PRO_LAB-ZEPHYR_%E2%9C%94-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="Zephyr"/>
   <br/>
-  <img src="https://img.shields.io/badge/RANK-MASTER-ea9d34?style=for-the-badge&logo=hackthebox&logoColor=ea9d34&labelColor=1a1620" alt="Rank Master"/>
-  <img src="https://img.shields.io/badge/LEVEL-65-56949f?style=for-the-badge&logo=hackthebox&logoColor=56949f&labelColor=1a1620" alt="Level 65"/>
-  <img src="https://img.shields.io/badge/SEASON_XP-703%2F2092-907aa9?style=for-the-badge&logo=hackthebox&logoColor=907aa9&labelColor=1a1620" alt="Season XP"/>
+  <img src="https://img.shields.io/badge/RANK-MASTER-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="Rank Master"/>
+  <img src="https://img.shields.io/badge/LEVEL-65-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="Level 65"/>
+  <img src="https://img.shields.io/badge/SEASON_XP-703%2F2092-f6c177?style=for-the-badge&logo=hackthebox&logoColor=f6c177&labelColor=191724" alt="Season XP"/>
 </p>
 
 <div align="center">
@@ -127,7 +127,7 @@ class Daemon404:
 
 <a id="arsenal"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/03-arsenal.png" width="860"/>
+  <img src="images/section-headers/header-arsenal.png" width="830"/>
 </div>
 
 <div align="center">
@@ -143,22 +143,22 @@ class Daemon404:
     <td valign="top" width="50%">
       <h3 align="center">▓▒░ <code>OFFENSIVE</code> ░▒▓</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Burp_Suite-d7827e?style=for-the-badge&logo=burpsuite&logoColor=d7827e&labelColor=1a1620" alt="Burp Suite"/>
-        <img src="https://img.shields.io/badge/Metasploit-d7827e?style=for-the-badge&logo=metasploit&logoColor=d7827e&labelColor=1a1620" alt="Metasploit"/>
-        <img src="https://img.shields.io/badge/Wireshark-d7827e?style=for-the-badge&logo=wireshark&logoColor=d7827e&labelColor=1a1620" alt="Wireshark"/>
-        <img src="https://img.shields.io/badge/Nmap-d7827e?style=for-the-badge&logo=gnometerminal&logoColor=d7827e&labelColor=1a1620" alt="Nmap"/>
-        <img src="https://img.shields.io/badge/BloodHound-d7827e?style=for-the-badge&logo=probot&logoColor=d7827e&labelColor=1a1620" alt="BloodHound"/>
-        <img src="https://img.shields.io/badge/OWASP-d7827e?style=for-the-badge&logo=owasp&logoColor=d7827e&labelColor=1a1620" alt="OWASP"/>
+        <img src="https://img.shields.io/badge/Burp_Suite-eb6f92?style=for-the-badge&logo=burpsuite&logoColor=eb6f92&labelColor=191724" alt="Burp Suite"/>
+        <img src="https://img.shields.io/badge/Metasploit-eb6f92?style=for-the-badge&logo=metasploit&logoColor=eb6f92&labelColor=191724" alt="Metasploit"/>
+        <img src="https://img.shields.io/badge/Wireshark-eb6f92?style=for-the-badge&logo=wireshark&logoColor=eb6f92&labelColor=191724" alt="Wireshark"/>
+        <img src="https://img.shields.io/badge/Nmap-eb6f92?style=for-the-badge&logo=gnometerminal&logoColor=eb6f92&labelColor=191724" alt="Nmap"/>
+        <img src="https://img.shields.io/badge/BloodHound-eb6f92?style=for-the-badge&logo=probot&logoColor=eb6f92&labelColor=191724" alt="BloodHound"/>
+        <img src="https://img.shields.io/badge/OWASP-eb6f92?style=for-the-badge&logo=owasp&logoColor=eb6f92&labelColor=191724" alt="OWASP"/>
       </p>
     </td>
     <td valign="top" width="50%">
       <h3 align="center">▓▒░ <code>ENVIRONMENT</code> ░▒▓</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/NixOS-907aa9?style=for-the-badge&logo=nixos&logoColor=907aa9&labelColor=1a1620" alt="NixOS"/>
-        <img src="https://img.shields.io/badge/Kali_Linux-907aa9?style=for-the-badge&logo=kalilinux&logoColor=907aa9&labelColor=1a1620" alt="Kali"/>
-        <img src="https://img.shields.io/badge/Arch_Linux-907aa9?style=for-the-badge&logo=archlinux&logoColor=907aa9&labelColor=1a1620" alt="Arch"/>
-        <img src="https://img.shields.io/badge/Debian-907aa9?style=for-the-badge&logo=debian&logoColor=907aa9&labelColor=1a1620" alt="Debian"/>
-        <img src="https://img.shields.io/badge/Neovim-907aa9?style=for-the-badge&logo=neovim&logoColor=907aa9&labelColor=1a1620" alt="Neovim"/>
+        <img src="https://img.shields.io/badge/NixOS-eb6f92?style=for-the-badge&logo=nixos&logoColor=eb6f92&labelColor=191724" alt="NixOS"/>
+        <img src="https://img.shields.io/badge/Kali_Linux-eb6f92?style=for-the-badge&logo=kalilinux&logoColor=eb6f92&labelColor=191724" alt="Kali"/>
+        <img src="https://img.shields.io/badge/Arch_Linux-eb6f92?style=for-the-badge&logo=archlinux&logoColor=eb6f92&labelColor=191724" alt="Arch"/>
+        <img src="https://img.shields.io/badge/Debian-eb6f92?style=for-the-badge&logo=debian&logoColor=eb6f92&labelColor=191724" alt="Debian"/>
+        <img src="https://img.shields.io/badge/Neovim-eb6f92?style=for-the-badge&logo=neovim&logoColor=eb6f92&labelColor=191724" alt="Neovim"/>
       </p>
     </td>
   </tr>
@@ -166,20 +166,24 @@ class Daemon404:
 
 </div>
 
+<div align="center">
+  <img src="images/daemon-404-dividers/div-a-circuit.png" width="600"/>
+</div>
+
 <a id="gadgets"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/04-gadgets.png" width="860"/>
+  <img src="images/section-headers/header-gadgets.png" width="830"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flipper_Zero-ea9d34?style=for-the-badge&logo=probot&logoColor=ea9d34&labelColor=1a1620" alt="Flipper Zero"/>
-  <img src="https://img.shields.io/badge/WiFi_Pineapple-ea9d34?style=for-the-badge&logo=wifi&logoColor=ea9d34&labelColor=1a1620" alt="WiFi Pineapple"/>
-  <img src="https://img.shields.io/badge/BadUSB-ea9d34?style=for-the-badge&logo=usb&logoColor=ea9d34&labelColor=1a1620" alt="BadUSB"/>
-  <img src="https://img.shields.io/badge/Pwnagotchi-ea9d34?style=for-the-badge&logo=ghost&logoColor=ea9d34&labelColor=1a1620" alt="Pwnagotchi"/>
+  <img src="https://img.shields.io/badge/Flipper_Zero-9ccfd8?style=for-the-badge&logo=probot&logoColor=9ccfd8&labelColor=191724" alt="Flipper Zero"/>
+  <img src="https://img.shields.io/badge/WiFi_Pineapple-9ccfd8?style=for-the-badge&logo=wifi&logoColor=9ccfd8&labelColor=191724" alt="WiFi Pineapple"/>
+  <img src="https://img.shields.io/badge/BadUSB-9ccfd8?style=for-the-badge&logo=usb&logoColor=9ccfd8&labelColor=191724" alt="BadUSB"/>
+  <img src="https://img.shields.io/badge/Pwnagotchi-9ccfd8?style=for-the-badge&logo=ghost&logoColor=9ccfd8&labelColor=191724" alt="Pwnagotchi"/>
   <br/>
-  <img src="https://img.shields.io/badge/Rubber_Ducky-ea9d34?style=for-the-badge&logo=hackthebox&logoColor=ea9d34&labelColor=1a1620" alt="Rubber Ducky"/>
-  <img src="https://img.shields.io/badge/OMG_Cables-ea9d34?style=for-the-badge&logo=lightning&logoColor=ea9d34&labelColor=1a1620" alt="OMG Cables"/>
-  <img src="https://img.shields.io/badge/Clockwork_uConsole-ea9d34?style=for-the-badge&logo=raspberrypi&logoColor=ea9d34&labelColor=1a1620" alt="uConsole"/>
+  <img src="https://img.shields.io/badge/Rubber_Ducky-9ccfd8?style=for-the-badge&logo=hackthebox&logoColor=9ccfd8&labelColor=191724" alt="Rubber Ducky"/>
+  <img src="https://img.shields.io/badge/OMG_Cables-9ccfd8?style=for-the-badge&logo=lightning&logoColor=9ccfd8&labelColor=191724" alt="OMG Cables"/>
+  <img src="https://img.shields.io/badge/Clockwork_uConsole-9ccfd8?style=for-the-badge&logo=raspberrypi&logoColor=9ccfd8&labelColor=191724" alt="uConsole"/>
 </p>
 
 <div align="center">
@@ -188,16 +192,16 @@ class Daemon404:
 
 <a id="neofetch"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/05-neofetch.png" width="860"/>
+  <img src="images/section-headers/header-neofetch.png" width="830"/>
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=DAEMON-404&background=1a1620&border=907aa9&stroke=d7827e&ring=ea9d34&fire=ea9d34&currStreakNum=f2e0d8&sideNums=f2e0d8&currStreakLabel=56949f&sideLabels=56949f&dates=8b8497" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=DAEMON-404&background=191724&border=3a3654&stroke=c4a7e7&ring=f6c177&fire=f6c177&currStreakNum=e0def4&sideNums=e0def4&currStreakLabel=9ccfd8&sideLabels=9ccfd8&dates=908caa" alt="GitHub Streak" width="500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DAEMON-404&bg_color=1a1620&color=f2e0d8&line=d7827e&point=ea9d34&area=true&hide_border=true" alt="Contribution activity graph" width="860"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DAEMON-404&bg_color=191724&color=e0def4&line=c4a7e7&point=f6c177&title_color=c4a7e7&area=true&hide_border=true" alt="Contribution activity graph" width="830"/>
 
 <br/><br/>
 
@@ -207,9 +211,9 @@ class Daemon404:
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DAEMON-404?style=for-the-badge&label=FOLLOWERS&color=56949f&labelColor=1a1620&logo=github&logoColor=56949f" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/DAEMON-404?affiliations=OWNER&style=for-the-badge&label=STARS&color=ea9d34&labelColor=1a1620&logo=github&logoColor=ea9d34" alt="Stars"/>
-  <img src="https://img.shields.io/github/last-commit/DAEMON-404/DAEMON-404?style=for-the-badge&label=PROFILE_UPDATED&color=907aa9&labelColor=1a1620&logo=github&logoColor=907aa9" alt="Profile last updated"/>
+  <img src="https://img.shields.io/github/followers/DAEMON-404?style=for-the-badge&label=FOLLOWERS&color=ebbcba&labelColor=191724&logo=github&logoColor=ebbcba" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/DAEMON-404?affiliations=OWNER&style=for-the-badge&label=STARS&color=ebbcba&labelColor=191724&logo=github&logoColor=ebbcba" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/DAEMON-404/DAEMON-404?style=for-the-badge&label=PROFILE_UPDATED&color=ebbcba&labelColor=191724&logo=github&logoColor=ebbcba" alt="Profile last updated"/>
 </p>
 
 <!-- Contribution Snake — populated by .github/workflows/snake.yml -->
@@ -226,7 +230,7 @@ class Daemon404:
 
 <a id="projects"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/06-projects.png" width="860"/>
+  <img src="images/section-headers/header-projects.png" width="830"/>
 </div>
 
 <div align="center">
@@ -237,35 +241,35 @@ class Daemon404:
       <h3><a href="https://github.com/DAEMON-404/crossfetch"><code>crossfetch</code></a></h3>
       <p>Cross-platform system fetch — neofetch energy, written in Python.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/DAEMON-404/crossfetch?style=for-the-badge&color=d7827e&labelColor=1a1620" alt="Top language"/>
+        <img src="https://img.shields.io/github/languages/top/DAEMON-404/crossfetch?style=for-the-badge&color=c4a7e7&labelColor=191724" alt="Top language"/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/DAEMON-404/crossfetch?style=for-the-badge&color=907aa9&labelColor=1a1620&label=UPDATED" alt="Last commit"/>
+        <img src="https://img.shields.io/github/last-commit/DAEMON-404/crossfetch?style=for-the-badge&color=c4a7e7&labelColor=191724&label=UPDATED" alt="Last commit"/>
       </p>
     </td>
     <td valign="top" width="33%" align="center">
       <h3><a href="https://github.com/DAEMON-404/daemon-sec-cheatsheet"><code>daemon-sec-cheatsheet</code></a></h3>
       <p>Offensive-security cheatsheet site — Astro build behind daemon-sec.xyz.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/DAEMON-404/daemon-sec-cheatsheet?style=for-the-badge&color=ea9d34&labelColor=1a1620" alt="Top language"/>
+        <img src="https://img.shields.io/github/languages/top/DAEMON-404/daemon-sec-cheatsheet?style=for-the-badge&color=c4a7e7&labelColor=191724" alt="Top language"/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/DAEMON-404/daemon-sec-cheatsheet?style=for-the-badge&color=907aa9&labelColor=1a1620&label=UPDATED" alt="Last commit"/>
+        <img src="https://img.shields.io/github/last-commit/DAEMON-404/daemon-sec-cheatsheet?style=for-the-badge&color=c4a7e7&labelColor=191724&label=UPDATED" alt="Last commit"/>
       </p>
     </td>
     <td valign="top" width="33%" align="center">
       <h3><a href="https://github.com/DAEMON-404/Daemon-Obsidian-Vault-Template"><code>Obsidian Vault Template</code></a></h3>
       <p>Pentest note-taking vault — structure, templates and tooling for engagements.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/DAEMON-404/Daemon-Obsidian-Vault-Template?style=for-the-badge&color=56949f&labelColor=1a1620" alt="Top language"/>
+        <img src="https://img.shields.io/github/languages/top/DAEMON-404/Daemon-Obsidian-Vault-Template?style=for-the-badge&color=c4a7e7&labelColor=191724" alt="Top language"/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/DAEMON-404/Daemon-Obsidian-Vault-Template?style=for-the-badge&color=907aa9&labelColor=1a1620&label=UPDATED" alt="Last commit"/>
+        <img src="https://img.shields.io/github/last-commit/DAEMON-404/Daemon-Obsidian-Vault-Template?style=for-the-badge&color=c4a7e7&labelColor=191724&label=UPDATED" alt="Last commit"/>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/DAEMON-404/HTB-Lab-Writeups"><img src="https://img.shields.io/badge/%F0%9F%93%96_HTB_LAB_WRITEUPS-907aa9?style=for-the-badge&labelColor=1a1620" alt="HTB Lab Writeups"/></a>
-  <a href="https://github.com/DAEMON-404?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%97%84_ALL_REPOSITORIES-56949f?style=for-the-badge&labelColor=1a1620" alt="All repositories"/></a>
+  <a href="https://github.com/DAEMON-404/HTB-Lab-Writeups"><img src="https://img.shields.io/badge/%F0%9F%93%96_HTB_LAB_WRITEUPS-c4a7e7?style=for-the-badge&labelColor=191724" alt="HTB Lab Writeups"/></a>
+  <a href="https://github.com/DAEMON-404?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%97%84_ALL_REPOSITORIES-c4a7e7?style=for-the-badge&labelColor=191724" alt="All repositories"/></a>
 </p>
 
 </div>
@@ -276,7 +280,7 @@ class Daemon404:
 
 <a id="education"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/07-education.png" width="860"/>
+  <img src="images/section-headers/header-education.png" width="830"/>
 </div>
 
 <table align="center">
@@ -295,16 +299,16 @@ class Daemon404:
 </table>
 
 <div align="center">
-  <img src="images/education-honours.png" alt="Honours project — “NixOS as a Kali Linux Alternative”: investigating the viability of NixOS as a reproducible, declarative offensive security platform. Skills: penetration testing, malware analysis, digital forensics, network security, secure software development, IoT / cloud security, offensive security tooling" width="880"/>
+  <img src="images/education-honours.png" alt="Honours project — “NixOS as a Kali Linux Alternative”: investigating the viability of NixOS as a reproducible, declarative offensive security platform. Skills: penetration testing, malware analysis, digital forensics, network security, secure software development, IoT / cloud security, offensive security tooling" width="830"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWARDED-SECOND_CLASS%2C_UPPER_DIVISION_%C2%B7_2%3A1-ea9d34?style=for-the-badge&labelColor=1a1620" alt="Awarded Second Class, Upper Division · 2:1"/>
-  <img src="https://img.shields.io/badge/GRADUATED-10_JUL_2026-907aa9?style=for-the-badge&labelColor=1a1620" alt="Graduated 10 July 2026"/>
+  <img src="https://img.shields.io/badge/AWARDED-SECOND_CLASS%2C_UPPER_DIVISION_%C2%B7_2%3A1-f6c177?style=for-the-badge&labelColor=191724" alt="Awarded Second Class, Upper Division · 2:1"/>
+  <img src="https://img.shields.io/badge/GRADUATED-10_JUL_2026-f6c177?style=for-the-badge&labelColor=191724" alt="Graduated 10 July 2026"/>
   <br/>
-  <a href="https://www.ncsc.gov.uk/information/ncsc-certified-degrees"><img src="https://img.shields.io/badge/NCSC-CERTIFIED_DEGREE_%E2%9C%94-56949f?style=for-the-badge&labelColor=1a1620" alt="NCSC certified degree — listed through 30 September 2031"/></a>
-  <img src="https://img.shields.io/badge/SOCIETY-ABERTAY_ETHICAL_HACKING-d7827e?style=for-the-badge&labelColor=1a1620" alt="Abertay Ethical Hacking Society"/>
-  <img src="https://img.shields.io/badge/VERIFY-ABERTAY_REGISTRY%2C_ON_REQUEST-b4637a?style=for-the-badge&labelColor=1a1620" alt="Verify via Abertay registry, on request"/>
+  <a href="https://www.ncsc.gov.uk/information/ncsc-certified-degrees"><img src="https://img.shields.io/badge/NCSC-CERTIFIED_DEGREE_%E2%9C%94-f6c177?style=for-the-badge&labelColor=191724" alt="NCSC certified degree — listed through 30 September 2031"/></a>
+  <img src="https://img.shields.io/badge/SOCIETY-ABERTAY_ETHICAL_HACKING-f6c177?style=for-the-badge&labelColor=191724" alt="Abertay Ethical Hacking Society"/>
+  <img src="https://img.shields.io/badge/VERIFY-ABERTAY_REGISTRY%2C_ON_REQUEST-f6c177?style=for-the-badge&labelColor=191724" alt="Verify via Abertay registry, on request"/>
 </p>
 
 <div align="center">
@@ -313,13 +317,13 @@ class Daemon404:
 
 <a id="contact"></a>
 <div align="center">
-  <img src="images/daemon-404-section-headers/08-contact.png" width="860"/>
+  <img src="images/section-headers/header-contact.png" width="830"/>
 </div>
 
 <p align="center">
-  <a href="https://daemon-sec.xyz"><img src="https://img.shields.io/badge/daemon--sec.xyz-56949f?style=for-the-badge&logo=firefox&logoColor=56949f&labelColor=1a1620" alt="Website"/></a>
-  <a href="https://app.hackthebox.com/users/2188380"><img src="https://img.shields.io/badge/HackTheBox-ea9d34?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1a1620" alt="HackTheBox"/></a>
-  <a href="mailto:iota43_dice@icloud.com"><img src="https://img.shields.io/badge/Email-d7827e?style=for-the-badge&logo=maildotru&logoColor=d7827e&labelColor=1a1620" alt="Email"/></a>
+  <a href="https://daemon-sec.xyz"><img src="https://img.shields.io/badge/daemon--sec.xyz-eb6f92?style=for-the-badge&logo=firefox&logoColor=eb6f92&labelColor=191724" alt="Website"/></a>
+  <a href="https://app.hackthebox.com/users/2188380"><img src="https://img.shields.io/badge/HackTheBox-eb6f92?style=for-the-badge&logo=hackthebox&logoColor=eb6f92&labelColor=191724" alt="HackTheBox"/></a>
+  <a href="mailto:iota43_dice@icloud.com"><img src="https://img.shields.io/badge/Email-eb6f92?style=for-the-badge&logo=maildotru&logoColor=eb6f92&labelColor=191724" alt="Email"/></a>
 </p>
 
 <div align="center">
@@ -416,6 +420,6 @@ wi7hMx1q26s=
 
 <br/><br/>
 
-<img src="images/profile-footer.png" alt="DAEMON-404 // footer" width="900"/>
+<a href="https://daemon-sec.xyz"><img src="images/footer.png" alt="BUILT BY DΛΣMӨП — daemon-sec.xyz" width="830"/></a>
 
 </div>

@@ -3,9 +3,8 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--  D Λ Σ M Ө П   //   D A E M O N - 4 0 4   //   p r o f i l e            -->
 <!--  Rose Pine Dawn accents on a dark plate — netrunner HUD                  -->
-<!--  Animated banner: images/profile-banner.gif (8s loop)                    -->
-<!--  Same loop as MP4 (1800x500):  images/profile-banner.mp4                 -->
-<!--  Still frame (1800x500):       images/profile-banner.png                 -->
+<!--  Animated banner: images/profile-banner.gif (918x324, scripture card)     -->
+<!--  Still frame:      images/profile-banner.png                             -->
 <!--  Section headers + education cards: scripts/render-graphics.sh          -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 

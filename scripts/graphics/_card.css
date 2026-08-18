@@ -1,0 +1,30 @@
+/* Shared plate styling for the DAEMON-404 README cards (Rose Pine dawn on dark). */
+:root {
+  --bg:#1a1620; --grid:#251f2c; --text:#f2e0d8; --muted:#8b8497; --dim:#5e5769;
+  --rose:#d7827e; --gold:#ea9d34; --foam:#56949f; --iris:#907aa9; --love:#b4637a; --pine:#5b93a8;
+}
+html, body { margin:0; padding:0; }
+body {
+  position:relative; overflow:hidden; box-sizing:border-box;
+  background:
+    repeating-linear-gradient(90deg, var(--grid) 0 1px, transparent 1px 22px),
+    repeating-linear-gradient(0deg,  var(--grid) 0 1px, transparent 1px 22px),
+    var(--bg);
+  font-family:'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+  color:var(--text);
+}
+.stripe { position:absolute; left:0; top:0; right:0; height:3px;
+  background:linear-gradient(90deg, var(--rose) 0%, var(--gold) 35%, var(--foam) 100%); }
+.label { font-size:13px; letter-spacing:.32em; color:var(--muted); text-transform:uppercase; }
+.pill  { box-sizing:border-box; border:1.5px solid var(--foam); color:var(--foam);
+  font-size:12px; letter-spacing:.2em; padding:5px 10px 4px 12px; text-transform:uppercase; }
+.pill.gold { border-color:var(--gold); color:var(--gold); }
+.pill.iris { border-color:var(--iris); color:var(--iris); }
+.pill.rose { border-color:var(--rose); color:var(--rose); }
+.glow { text-shadow:0 0 18px rgba(242,224,216,.35), 0 0 42px rgba(215,130,126,.25); }
+.stat { border-left:2px solid var(--rose); padding-left:12px; }
+.stat .v { font-size:24px; font-weight:800; line-height:1; color:var(--rose); }
+.stat .k { font-size:11px; letter-spacing:.24em; color:var(--muted); text-transform:uppercase; margin-top:6px; line-height:1; white-space:nowrap; }
+.stat.iris { border-color:var(--iris); } .stat.iris .v { color:var(--iris); }
+.stat.foam { border-color:var(--foam); } .stat.foam .v { color:var(--foam); }
+.stat.gold { border-color:var(--gold); } .stat.gold .v { color:var(--gold); }

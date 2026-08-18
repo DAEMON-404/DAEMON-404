@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>MODULE_MANIFEST — key modules studied</title>
+<!-- 440x280 CSS px, rendered at 2x → 880x560 -->
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="_card.css">
+<style>
+  body { width:440px; height:280px; padding:24px 24px 0 24px; }
+  .top { display:flex; justify-content:space-between; align-items:center; }
+  ul { list-style:none; margin:18px 0 0; padding:0; }
+  li { display:flex; align-items:baseline; gap:14px; height:25px; font-size:12.5px; }
+  li .code { font-size:11px; letter-spacing:.1em; width:54px; flex:none; }
+  li .name { color:var(--text); font-weight:500; white-space:nowrap; }
+  li:nth-child(odd) .code { color:var(--foam); } li:nth-child(even) .code { color:var(--iris); }
+  .foot { position:absolute; left:24px; right:24px; bottom:16px; font-size:10.5px; letter-spacing:.16em; color:var(--dim); text-transform:uppercase; white-space:nowrap; }
+</style>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="top">
+    <div class="label">Module_Manifest</div>
+    <div class="pill iris">7 loaded</div>
+  </div>
+  <ul>
+    <li><span class="code">CMP320</span><span class="name">Advanced Ethical Hacking</span></li>
+    <li><span class="code">CMP319</span><span class="name">Web Application Penetration Testing</span></li>
+    <li><span class="code">CMP416</span><span class="name">Advanced Digital Forensics</span></li>
+    <li><span class="code">CMP417</span><span class="name">Engineering Resilient Systems</span></li>
+    <li><span class="code">CMP408</span><span class="name">IoT and Cloud Secure Development</span></li>
+    <li><span class="code">CMP314</span><span class="name">Computer Networking 2</span></li>
+    <li><span class="code">CMP309</span><span class="name">Software Development for Mobile Devices</span></li>
+  </ul>
+  <div class="foot">$ ls /abertay/modules · key modules studied</div>
+</body>
+</html>

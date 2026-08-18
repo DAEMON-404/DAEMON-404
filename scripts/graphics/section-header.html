@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>DAEMON-404 section header</title>
+<!--
+  Section header template — 860x80 CSS px, rendered at 2x → 1720x160.
+  Parameters via query string:
+    ?cmd=education&tags=ABERTAY // BSC (HONS) // NCSC&num=07&accent=%23907aa9
+-->
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;800&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#1a1620; --grid:#25202e; --text:#f2e0d8; --muted:#8b8497; --accent:#56949f; }
+  html, body { margin:0; padding:0; }
+  body {
+    width:860px; height:80px; overflow:hidden; position:relative;
+    background:
+      radial-gradient(420px 160px at 100% 50%, rgba(215,130,126,.10), transparent 70%),
+      repeating-linear-gradient(90deg, var(--grid) 0 1px, transparent 1px 26px),
+      var(--bg);
+    background-position: 0 0, 25px 0, 0 0;
+    font-family:'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+    color:var(--text);
+  }
+  .bar   { position:absolute; left:0; top:0; width:4px; height:80px; background:var(--accent); }
+  .rule  { position:absolute; left:26px; top:22px; width:1px; height:36px; background:rgba(215,130,126,.35); }
+  .cmd   { position:absolute; left:46px; top:0; height:80px; display:flex; align-items:center; gap:0; }
+  .cmd .ps  { color:var(--accent); font-size:18px; font-weight:500; margin-right:12px; position:relative; top:4px; }
+  .cmd .txt { font-size:28px; font-weight:800; letter-spacing:.01em; }
+  .cmd .cur { display:inline-block; width:11px; height:19px; background:var(--accent); margin-left:14px; position:relative; top:0; }
+  .tags  { position:absolute; right:84px; top:0; height:80px; display:flex; align-items:center;
+           font-size:13px; font-weight:400; letter-spacing:.13em; color:var(--muted); text-transform:uppercase; white-space:nowrap; }
+  .num   { position:absolute; right:30px; top:28px; width:36px; height:24px; box-sizing:border-box;
+           border:1.5px solid var(--accent); color:var(--accent); font-size:12px; font-weight:500; letter-spacing:.08em;
+           display:flex; align-items:center; justify-content:center; }
+</style>
+</head>
+<body>
+  <div class="bar"></div>
+  <div class="rule"></div>
+  <div class="cmd"><span class="ps">$</span><span class="txt" id="cmd">whoami</span><span class="cur"></span></div>
+  <div class="tags" id="tags">// IDENTITY // ALIAS // MISSION</div>
+  <div class="num" id="num">01</div>
+<script>
+  const q = new URLSearchParams(location.search);
+  if (q.get('cmd'))  document.getElementById('cmd').textContent  = q.get('cmd');
+  if (q.get('tags')) document.getElementById('tags').textContent = q.get('tags');
+  if (q.get('num'))  document.getElementById('num').textContent  = q.get('num');
+  if (q.get('accent')) document.documentElement.style.setProperty('--accent', q.get('accent'));
+</script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-label="Contribution breakdown radar chart">
+  <rect width="760" height="420" rx="12" fill="#1a1620"/>
+  <line x1="380" y1="210" x2="380" y2="80" stroke="#907aa9" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <line x1="380" y1="210" x2="510" y2="210" stroke="#907aa9" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <line x1="380" y1="210" x2="380" y2="340" stroke="#907aa9" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <line x1="380" y1="210" x2="250" y2="210" stroke="#907aa9" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+  <polygon points="380,208.31 381.69,210 380,245.45 250,210" fill="#d7827e" fill-opacity="0.3" stroke="#d7827e" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="380" cy="208.31" r="5" fill="#1a1620" stroke="#ea9d34" stroke-width="3"/>
+  <circle cx="381.69" cy="210" r="5" fill="#1a1620" stroke="#ea9d34" stroke-width="3"/>
+  <circle cx="380" cy="245.45" r="5" fill="#1a1620" stroke="#ea9d34" stroke-width="3"/>
+  <circle cx="250" cy="210" r="5" fill="#1a1620" stroke="#ea9d34" stroke-width="3"/>
+  <text x="380" y="32" text-anchor="middle" fill="#56949f" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="21" font-weight="700">1%</text>
+  <text x="380" y="58" text-anchor="middle" fill="#f2e0d8" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17">Code review</text>
+  <text x="544" y="200" text-anchor="start" fill="#56949f" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="21" font-weight="700">1%</text>
+  <text x="544" y="226" text-anchor="start" fill="#f2e0d8" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17">Issues</text>
+  <text x="380" y="380" text-anchor="middle" fill="#56949f" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="21" font-weight="700">21%</text>
+  <text x="380" y="406" text-anchor="middle" fill="#f2e0d8" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17">Pull requests</text>
+  <text x="216" y="200" text-anchor="end" fill="#56949f" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="21" font-weight="700">77%</text>
+  <text x="216" y="226" text-anchor="end" fill="#f2e0d8" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17">Commits</text>
+</svg>
